@@ -1,0 +1,6 @@
+
+fetch("https://api-tvl.solflare.com/api/v1/tvl").then((function (e) { return e.json() })).then((function (e) { document.querySelector("#lp__isa").innerHTML = ((Number(e.totalSolflareNonStaked) + Number(e.totalSolflareStake)) / Math.pow(10, 9) / Math.pow(10, 6)).toFixed(2), document.querySelector("#lp__isa").classList.remove("lp--loading"), document.querySelector("#lp__css").innerHTML = Math.round(e.circulatingSupplyPercentage).toString(), document.querySelector("#lp__css").classList.remove("lp--loading"), document.querySelector("#lp__tv").innerHTML = (e.totalValue / 1e9).toFixed(2).toString(), document.querySelector("#lp__tv").classList.remove("lp--loading") }));
+
+window.toggleMode = function () { "light" === window.lp_theme ? (document.querySelector(".lp").classList.remove("lp--light-mode"), window.lp_theme = "", localStorage.removeItem("lp_theme")) : (document.querySelector(".lp").classList.add("lp--light-mode"), window.lp_theme = "light", localStorage.setItem("lp_theme", "light")) };
+
+window.toggleFaq = function (e) { e.classList.toggle("lp__faq--open") }
