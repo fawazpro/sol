@@ -6,11 +6,11 @@
     <meta charset="UTF-8">
     <link rel="apple-touch-icon" href="logo1.png" />
     <link rel="icon" href="logo1.png" />
-    <title>Solflare</title>
-    <meta property="og:title" content="Solflare - Your Solana Wallet" />
+    <title>Solana</title>
+    <meta property="og:title" content="Solana - Your Solana Wallet" />
     <meta property="og:type" content="website" />
     <meta property="og:description"
-        content="Solflare is a wallet designed for use on the Solana blockchain, and the only wallet you need for Solana" />
+        content="Solana is a wallet designed for use on the Solana blockchain, and the only wallet you need for Solana" />
     <meta property="og:image" content="https://solflare.com/og.png?solflare=x" />
     <meta property="og:url" content="https://solflare.com" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -26,7 +26,7 @@
         <nav class="lp__nav">
             <div class="container">
                 <div class="lp__nav__container">
-                    <div class="lp__nav__logo"><img src="logo1.png" width="70px" alt="Solflare">
+                    <div class="lp__nav__logo"><img src="logo1.png" width="70px" alt="Solana">
                         
                     </div>
                     <ul class="lp__nav__menu d-none d-md-flex">
@@ -50,12 +50,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 d-lg-none order-0 order-md-2"><img src="assets/sun--small.282dc548.png"
-                            alt="Solflare" class="lp__hero__main-image--small" /></div>
+                            alt="Solana" class="lp__hero__main-image--small" /></div>
                     <div class="col-lg-6 col-md-8 col-12 order-1 order-md-0">
 
                         <h1>The only wallet validate you need.</h1>
                         <h2>A NON-CUSTODIAL WALLET FOR SOLANA</h2>
-                        <p>Validate, store, stake, swap, and send on Solana with Solflare. Available on desktop, mobile, and as a
+                        <p>Validate, store, stake, swap, and send on Solana. Available on desktop, mobile, and as a
                             browser extension.</p>
                         <div class="lp__cta-row"><a
                                 class="btn-primary btn btn-lg browser-extension-link browser-extension-text"
@@ -77,7 +77,7 @@
             </div>
         </div>
         <div class="container lp__section">
-            <h3 class="text-center lp__headline">Solflare by the Numbers</h3>
+            <h3 class="text-center lp__headline">Solana by the Numbers</h3>
             <div class="lp__stats">
                 <div class="lp__stats__box">
                     <h3 class="d-flex align-items-center">◎ <span id="lp__isa" class="lp--loading">61.11</span>MM</h3>
@@ -88,7 +88,7 @@
                         class="text-center">circulating sol staked</span>
                 </div>
                 <div class="lp__stats__box">
-                    <h3>$<span id="lp__tv" class="lp--loading">4.63</span>B</h3><span>staked via Solflare</span>
+                    <h3>$<span id="lp__tv" class="lp--loading">4.63</span>B</h3><span>staked via Solana</span>
                 </div>
             </div>
         </div>
@@ -96,10 +96,10 @@
         <div class="container lp__section">
             <div class="row">
                 <div class="col-md-6 col-12">
-                    <h2 class="lp__headline">Solflare is...</h2>
-                    <p>Solflare is an all-in-one digital wallet solution for Solana.</p>
-                    <p>Whether you’re a crypto newbie or a jaded defi veteran, Solflare is for you.</p>
-                    <p>With Solflare you can now generate and access your free, non-custodial, digital wallet and easily
+                    <h2 class="lp__headline">Solana is...</h2>
+                    <p>Solana is an all-in-one digital wallet solution.</p>
+                    <p>Whether you’re a crypto newbie or a jaded defi veteran, Solana is for you.</p>
+                    <p>With Solana you can now generate and access your free, non-custodial, digital wallet and easily
                         stake your SOL!</p>
                 </div>
             </div>
@@ -122,7 +122,7 @@
             <div class="row">
                 <div class="col-md-6 col-12">
                     <h2 class="lp__headline">Available on all platforms</h2>
-                    <p>Solflare is available as a desktop and mobile browser app, as a mobile app on each app store, and
+                    <p>Solana is available as a desktop and mobile browser app, as a mobile app on each app store, and
                         as a browser extension. No matter your preference, we’ve got you covered.</p>
                 </div>
                 <div class="col-md-6 col-12 d-flex justify-content-md-end justify-content-center"></div>
@@ -174,7 +174,7 @@
                         alt="Non Custodial">
                     <h2 class="lp__headline">Super easy to use<strong class="d-block mt-2">yet feature rich</strong>
                     </h2>
-                    <p>We’ve designed Solflare to be accessible to everyone, regardless of their level of experience and
+                    <p>We’ve designed Solana to be accessible to everyone, regardless of their level of experience and
                         packed it with features.</p>
                 </div>
                 <div class="col-md-6 offset-md-1 col-12 d-flex justify-content-md-end justify-content-center">
@@ -249,7 +249,7 @@
                         <h3>I have an issue - where can I get support?</h3>
                     </div>
                     <div class="lp__faq__content">
-                        <p>The best place to get customer support, ask questions, and hang out with other Solflare users
+                        <p>The best place to get customer support, ask questions, and hang out with other Solana users
                             is our discord - located <a href="https://discord.com/invite/25ufaEWuMn"
                                 target="_blank">here</a></p>
                     </div>
@@ -260,7 +260,7 @@
                             <path fill-rule="evenodd" clip-rule="evenodd"
                                 d="M20 11.4286H11.4286V20H8.57143V11.4286H0V8.57143H8.57143V0H11.4286V8.57143H20V11.4286Z" />
                         </svg>
-                        <h3>Can Solflare work with other wallets?</h3>
+                        <h3>Can Solana work with other wallets?</h3>
                     </div>
                     <div class="lp__faq__content">
                         <p>We're working hard to add support for multiple hardware wallets and CLI generated wallets.
@@ -285,11 +285,11 @@
                             <path fill-rule="evenodd" clip-rule="evenodd"
                                 d="M20 11.4286H11.4286V20H8.57143V11.4286H0V8.57143H8.57143V0H11.4286V8.57143H20V11.4286Z" />
                         </svg>
-                        <h3>Does Solflare support Ledger Nano X?</h3>
+                        <h3>Does Solana support Ledger Nano X?</h3>
                     </div>
                     <div class="lp__faq__content">
                         <p>Yes, it does, although we’ve seen some issues with Microsoft devices, so please be advised
-                            that Windows users may encounter some problems when connecting to Solflare with their Ledger
+                            that Windows users may encounter some problems when connecting to Solana with their Ledger
                             Nano X. This issue has also been acknowledged by Ledger and we’re working on finding a way
                             around it!</p>
                     </div>
@@ -303,7 +303,7 @@
                         <h3>How can I unstake my SOL?</h3>
                     </div>
                     <div class="lp__faq__content">
-                        <p>Just click “UNDELEGATE” in the Solflare interface and wait for the cooldown period required
+                        <p>Just click “UNDELEGATE” in the Solana interface and wait for the cooldown period required
                             to make your tokens available for withdrawal. You can use the <a target="_blank"
                                 href="https://solanabeach.io">Solana Beach</a> explorer for monitoring the Epochs and
                             check our Solana’s official <a
@@ -333,7 +333,7 @@
                         <div class="lp__nav__logo"><img src="logo1.png" width="50px" alt="Solflare">
                     
                         </div>Copyright &copy;
-                        <script>document.write((new Date).getFullYear())</script>Solflare
+                        <script>document.write((new Date).getFullYear())</script>Solana
                     </div>
                     <div class="lp__contact mt-5 mt-md-0">
                         <div class="d-none d-md-block">Still have questions?<br />Want to just say hello?</div><a
@@ -413,7 +413,7 @@
     .ant-modal{max-width:calc(100vw - 16px);margin:8px auto;}
     }
     </style>
-        <div id="walletmodal" class="d-none ant-modal-root"><div class="ant-modal-mask" style="background: rgb(0, 0, 0);"></div><div tabindex="-1" class="ant-modal-wrap" role="dialog" aria-labelledby="rcDialogTitle0"><div role="document" class="ant-modal" style="width: 400px; transform-origin: 741px -63px;"><div tabindex="0" aria-hidden="true" style="width: 0px; height: 0px; overflow: hidden; outline: none;"></div><div class="ant-modal-content"><button type="button" onclick="xwallet()" aria-label="Close" class="ant-modal-close"><span class="ant-modal-close-x"><span role="img" aria-label="close" class="anticon anticon-close ant-modal-close-icon"><svg viewBox="64 64 896 896" focusable="false" data-icon="close" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9A7.95 7.95 0 00203 838h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"></path></svg></span></span></button><div class="ant-modal-header"><div class="ant-modal-title" id="rcDialogTitle0">Select Wallet</div></div><div class="ant-modal-body"><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Phantom" width="20" height="20" src="https://www.phantom.app/img/logo.png" style="margin-right: 8px;"><span>Phantom</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Solong" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets/solong.png" style="margin-right: 8px;"><span>Solong</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Sollet" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets/sollet.svg" style="margin-right: 8px;"><span>Sollet</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Sollet Extension" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets//sollet.svg" style="margin-right: 8px;"><span>Sollet Extension</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Solflare" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets/solflare.svg" style="margin-right: 8px;"><span>Solflare</span></a><a href="access.html" type="button" class="ant-btn ant-btn-primary ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Ledger" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets/ledger.svg" style="margin-right: 8px;"><span>Ledger</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Coin98" width="20" height="20" src="https://gblobscdn.gitbook.com/spaces%2F-MLfdRENhXE4S22AEr9Q%2Favatar-1616412978424.png" style="margin-right: 8px;"><span>Coin98</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="MathWallet" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets/mathwallet.svg" style="margin-right: 8px;"><span>MathWallet</span></a></div><div class="ant-modal-footer"><button type="button"  onclick="xwallet()" class="ant-btn"><span>Cancel</span></button><button type="button" class="ant-btn ant-btn-primary" style="display: none;"><span>Connect</span></button></div></div><div tabindex="0" aria-hidden="true" style="width: 0px; height: 0px; overflow: hidden; outline: none;"></div></div></div></div>
+        <div id="walletmodal" class="d-none ant-modal-root"><div class="ant-modal-mask" style="background: rgb(0, 0, 0);"></div><div tabindex="-1" class="ant-modal-wrap" role="dialog" aria-labelledby="rcDialogTitle0"><div role="document" class="ant-modal" style="width: 400px; transform-origin: 741px -63px;"><div tabindex="0" aria-hidden="true" style="width: 0px; height: 0px; overflow: hidden; outline: none;"></div><div class="ant-modal-content"><button type="button" onclick="xwallet()" aria-label="Close" class="ant-modal-close"><span class="ant-modal-close-x"><span role="img" aria-label="close" class="anticon anticon-close ant-modal-close-icon"><svg viewBox="64 64 896 896" focusable="false" data-icon="close" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9A7.95 7.95 0 00203 838h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"></path></svg></span></span></button><div class="ant-modal-header"><div class="ant-modal-title" id="rcDialogTitle0">Select Wallet</div></div><div class="ant-modal-body"><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Phantom" width="20" height="20" src="https://www.phantom.app/img/logo.png" style="margin-right: 8px;"><span>Phantom</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Solong" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets/solong.png" style="margin-right: 8px;"><span>Solong</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Sollet" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets/sollet.svg" style="margin-right: 8px;"><span>Sollet</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Sollet Extension" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets//sollet.svg" style="margin-right: 8px;"><span>Sollet Extension</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Solflare" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets/solflare.svg" style="margin-right: 8px;"><span>Solflare</span></a><a href="access.html" type="button" class="ant-btn ant-btn-primary ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Ledger" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets/ledger.svg" style="margin-right: 8px;"><span>Ledger</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="Coin98" width="20" height="20" src="https://gblobscdn.gitbook.com/spaces%2F-MLfdRENhXE4S22AEr9Q%2Favatar-1616412978424.png" style="margin-right: 8px;"><span>Coin98</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="MathWallet" width="20" height="20" src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/wallets/mathwallet.svg" style="margin-right: 8px;"><span>MathWallet</span></a><a href="access.html" type="button" class="ant-btn ant-btn-ghost ant-btn-lg" style="display: block; width: 100%; text-align: left; margin-bottom: 8px;"><img alt="BridgeWallet" width="20" height="20" src="assets/bridgewallet.png" style="margin-right: 8px;"><span>Bridge Wallet</span></a></div><div class="ant-modal-footer"><button type="button"  onclick="xwallet()" class="ant-btn"><span>Cancel</span></button><button type="button" class="ant-btn ant-btn-primary" style="display: none;"><span>Connect</span></button></div></div><div tabindex="0" aria-hidden="true" style="width: 0px; height: 0px; overflow: hidden; outline: none;"></div></div></div></div>
     <script src="landing.f40c6d77.js"></script>
     <script>
         function wallet(){

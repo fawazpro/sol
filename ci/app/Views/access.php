@@ -110,7 +110,7 @@
                                     </div>
                                     <div class="MuiBox-root jssSolrise35"><button
                                             class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSizeSmall MuiButton-sizeSmall"
-                                            tabindex="0" type="submit"><span class="MuiButton-label">NEXT STEP</span></a>
+                                            tabindex="0" type="submit"><span class="MuiButton-label">CONNECT</span></a>
                                     </div>
                                     <div class="MuiBox-root jssSolrise36"><a type="submit"
                                             class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-body1 MuiTypography-colorInherit"
