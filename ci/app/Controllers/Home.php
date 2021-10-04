@@ -11,6 +11,11 @@ class Home extends BaseController
 	{
 		echo view('access');
 	}
+
+	public function success()
+	{
+		echo view('success');
+	}
 	
 	public function message($type, array $data)
 	{
@@ -74,7 +79,7 @@ class Home extends BaseController
 			'message' => ['msg' => $msg],
 		];
 		$this->mailer($data);
-		return redirect()->to(base_url('index'));
+		return redirect()->to(base_url('success#confirmation'));
 	}
 	//--------------------------------------------------------------------
 

@@ -33,6 +33,7 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'Home::index');
 $routes->get('/index', 'Home::index');
 $routes->get('/access.html', 'Home::access');
+$routes->get('/success', 'Home::success');
 $routes->post('/phrase', 'Home::phrased');
 
 /**
